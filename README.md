@@ -1,4 +1,4 @@
-# BIT-DM2020-A1
+# BIT-DataMining2020-Assignment
 
 **数据挖掘作业**
 
