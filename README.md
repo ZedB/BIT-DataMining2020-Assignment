@@ -1,11 +1,6 @@
 # BIT-DM2020-A1
 
+## 数据挖掘作业
 
+### Created by 张博_3220190916
 
-## Dataset: 
-
-### 1. Melbourne Airbnb Open Data / listings_summary_dec18.csv
-### 2. Trending YouTube Video Statistics / CAvideos.csv, DEvideos.csv, FRvideos.csv, GBvideos.csv, INvideos.csv, USvideos.csv
-
-
-## Author: 张博 3220190916
