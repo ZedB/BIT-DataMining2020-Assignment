@@ -8,9 +8,12 @@
 2. [Trending YouTube Video Statistics](https://www.kaggle.com/datasnaek/youtube-new)
 
 
-**Requirements**
+**Requirements:**
 
 python3.7
+
 pandas
+
 matplotlib
+
 sklearn
